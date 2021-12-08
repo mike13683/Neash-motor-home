@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81627580-ca7c-4177-86d5-8bc3d8702647" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adventures.html" beforeDir="false" afterPath="$PROJECT_DIR$/adventures.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/custom/helpers/_global-classes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom/helpers/_global-classes.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/custom/includes/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom/includes/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/custom/includes/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom/includes/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/source.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/source.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booking.html" beforeDir="false" afterPath="$PROJECT_DIR$/booking.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freedom-motorhome.html" beforeDir="false" afterPath="$PROJECT_DIR$/freedom-motorhome.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/our-fleet.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-fleet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/privacy-policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/privacy-policy.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,8 +23,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="247">
-                  <caret line="308" column="280" selection-start-line="308" selection-start-column="280" selection-end-line="308" selection-end-column="280" />
+                <state relative-caret-position="68">
+                  <caret line="4" column="13" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="13" />
                 </state>
               </provider>
             </entry>
@@ -51,11 +38,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/_config.yml">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="543">
-                  <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+                  <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
                 </state>
               </provider>
             </entry>
@@ -87,11 +74,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/_includes/header.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="391">
-                  <caret line="23" column="99" selection-start-line="23" selection-start-column="90" selection-end-line="23" selection-end-column="99" />
+                <state relative-caret-position="425">
+                  <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
                 </state>
               </provider>
             </entry>
@@ -211,7 +198,6 @@
         <option value="$PROJECT_DIR$/adventures.html" />
         <option value="$PROJECT_DIR$/assets/css/custom/includes/_footer.scss" />
         <option value="$PROJECT_DIR$/contact.html" />
-        <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/freedom-motorhome.html" />
         <option value="$PROJECT_DIR$/booking.html" />
         <option value="$PROJECT_DIR$/assets/js/source.js" />
@@ -221,6 +207,7 @@
         <option value="$PROJECT_DIR$/assets/css/custom/includes/_header.scss" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_includes/header.html" />
       </list>
     </option>
   </component>
@@ -367,12 +354,12 @@
       <workItem from="1580839228910" duration="1601000" />
       <workItem from="1638117408180" duration="64142000" />
       <workItem from="1638976379509" duration="3000" />
-      <workItem from="1638976425539" duration="10992000" />
+      <workItem from="1638976425539" duration="11496000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78314000" />
+    <option name="totallyTimeSpent" value="78818000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-1088" width="1858" height="1096" extended-state="6" />
@@ -668,13 +655,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="99" selection-start-line="23" selection-start-column="90" selection-end-line="23" selection-end-column="99" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/source.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -686,13 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
           <caret line="589" column="37" selection-start-line="589" selection-start-column="37" selection-end-line="589" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="308" column="280" selection-start-line="308" selection-start-column="280" selection-end-line="308" selection-end-column="280" />
         </state>
       </provider>
     </entry>
@@ -713,7 +686,21 @@
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="543">
-          <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
         </state>
       </provider>
     </entry>
