@@ -1,4 +1,12 @@
 //navbar
+
+//remove underline from email link at top of page
+header{
+  a{
+    text-decoration: none;
+  }
+}
+
 #navbarNav {
   ul li {
     margin: 0 10px;
@@ -33,7 +41,7 @@
 
 .navbar-booking{
   background-color: $primary;
-  padding:3px 20px !important;
+  padding:2px 20px !important;
   border-radius: 5%;
   margin:0 10px;
 

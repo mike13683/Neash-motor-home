@@ -266,6 +266,55 @@
 }
 
 //Comparison table
+#compare-rv{
+
+  .card-header{
+    padding: 0;
+  }
+
+
+  .compare-rv{
+    h3{
+      font-size:rem-calc(26px);
+      text-align: center;
+    }
+
+    .compare-rv__header{
+      p{
+        font-size:rem-calc(20px);
+      }
+    }
+
+    .card{
+      margin:10px 5px;
+    }
+
+    .birth{
+      padding:10px;
+
+      p{
+        margin: 0;
+        padding:5px;
+        display: inline-block;
+      }
+
+      position: relative;
+
+      .light-border{
+        position: absolute;
+        width:95px;
+        height:3px;
+        background-color: $primary;
+        left:50%;
+        transform:translateX(-50%);
+      }
+    }
+  }
+
+  .card-border{
+    border: 6px solid #EEEEEE;
+  }
+}
 
 //OUR FLEET SINGLE PAGE
 //freedom motorhome
@@ -552,5 +601,14 @@
   }
 }
 
+//PRIVACY POLICY
+#privacy-policy,#tcs{
+  h2,h3{
+    font-size:rem-calc(24px);
+  }
 
+  h2{
+    text-align: left;
+  }
+}
 

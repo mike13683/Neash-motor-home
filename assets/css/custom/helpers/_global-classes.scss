@@ -21,3 +21,7 @@ h2{
   font-size:rem-calc(50px)
 }
 
+//change owl carousel dot colour
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span{
+  background: $primary !important;
+}
