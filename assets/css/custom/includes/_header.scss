@@ -1,0 +1,47 @@
+//navbar
+#navbarNav {
+  ul li {
+    margin: 0 10px;
+    color:#fff;
+  }
+
+  a{
+    font-size: 18px;
+    text-decoration: none;
+  }
+
+  a:hover{
+    color: lighten($primary, 10%) !important;
+  }
+
+  .active{
+    color: lighten($primary, 20%) !important;
+  }
+}
+
+.navbar{
+  background-color:#282423;
+
+  img{
+    width:80%;
+  }
+}
+
+.nav-text a{
+  color:#fff;
+}
+
+.navbar-booking{
+  background-color: $primary;
+  padding:3px 20px !important;
+  border-radius: 5%;
+  margin:0 10px;
+
+  a{
+    color:#fff !important;
+  }
+
+  li{
+    margin-top: -40px !important;
+  }
+}
