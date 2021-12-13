@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81627580-ca7c-4177-86d5-8bc3d8702647" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/custom/helpers/_global-classes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom/helpers/_global-classes.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adventures.html" beforeDir="false" afterPath="$PROJECT_DIR$/adventures.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/booking.html" beforeDir="false" afterPath="$PROJECT_DIR$/booking.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/how-it-works.html" beforeDir="false" afterPath="$PROJECT_DIR$/how-it-works.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,17 +26,17 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="400">
-                  <caret line="259" column="50" selection-start-line="259" selection-start-column="50" selection-end-line="259" selection-end-column="50" />
+                <state relative-caret-position="255">
+                  <caret line="55" column="90" selection-start-line="55" selection-start-column="90" selection-end-line="55" selection-end-column="90" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/how-it-works.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="510">
-                  <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
+                <state relative-caret-position="196">
+                  <caret line="136" column="72" selection-start-line="136" selection-start-column="72" selection-end-line="136" selection-end-column="72" />
                 </state>
               </provider>
             </entry>
@@ -60,11 +59,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/booking.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1751">
-                  <caret line="103" column="32" selection-start-line="103" selection-start-column="32" selection-end-line="103" selection-end-column="32" />
+                <state relative-caret-position="384">
+                  <caret line="103" column="25" selection-start-line="103" selection-start-column="25" selection-end-line="103" selection-end-column="25" />
                 </state>
               </provider>
             </entry>
@@ -72,17 +71,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/our-fleet.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="10013">
-                  <caret line="589" column="37" selection-start-line="589" selection-start-column="37" selection-end-line="589" selection-end-column="37" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/_includes/header.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="571">
-                  <caret line="83" selection-start-line="83" selection-start-column="4" selection-end-line="87" selection-end-column="10" />
+                <state relative-caret-position="264">
+                  <caret line="550" column="79" selection-start-line="550" selection-end-line="551" />
                 </state>
               </provider>
             </entry>
@@ -99,8 +89,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/adventures.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="136">
-                  <caret line="8" selection-start-line="8" selection-end-line="29" selection-end-column="10" />
+                <state relative-caret-position="663">
+                  <caret line="79" column="90" selection-start-line="79" selection-start-column="90" selection-end-line="79" selection-end-column="90" />
                 </state>
               </provider>
             </entry>
@@ -133,8 +123,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>&lt;p&gt;Tumultumque de festus historia, s historia, captis luba!Est mirabili captis luba!Est mirabilis absolutio, cesaris.&lt;/p&gt;</find>
-      <find>hello</find>
       <find>dark</find>
       <find>about</find>
       <find>everyth</find>
@@ -162,6 +150,8 @@
       <find>things</find>
       <find>policy</find>
       <find>navbarNav</find>
+      <find>img</find>
+      <find>pet</find>
       <find>every</find>
     </findStrings>
     <replaceStrings>
@@ -207,20 +197,20 @@
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/privacy-policy.html" />
         <option value="$PROJECT_DIR$/tcs.html" />
-        <option value="$PROJECT_DIR$/adventures.html" />
         <option value="$PROJECT_DIR$/assets/css/custom/includes/_footer.scss" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/freedom-motorhome.html" />
-        <option value="$PROJECT_DIR$/booking.html" />
         <option value="$PROJECT_DIR$/assets/js/source.js" />
         <option value="$PROJECT_DIR$/assets/css/main.scss" />
         <option value="$PROJECT_DIR$/our-fleet.html" />
         <option value="$PROJECT_DIR$/assets/css/custom/includes/_header.scss" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/assets/css/custom/helpers/_global-classes.scss" />
+        <option value="$PROJECT_DIR$/adventures.html" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/how-it-works.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/booking.html" />
       </list>
     </option>
   </component>
@@ -368,12 +358,12 @@
       <workItem from="1638117408180" duration="64142000" />
       <workItem from="1638976379509" duration="3000" />
       <workItem from="1638976425539" duration="13975000" />
-      <workItem from="1639418368002" duration="448000" />
+      <workItem from="1639418368002" duration="1565000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81745000" />
+    <option name="totallyTimeSpent" value="82862000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-1088" width="1858" height="1096" extended-state="6" />
@@ -653,27 +643,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/booking.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1751">
-          <caret line="103" column="32" selection-start-line="103" selection-start-column="32" selection-end-line="103" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/our-fleet.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10013">
-          <caret line="589" column="37" selection-start-line="589" selection-start-column="37" selection-end-line="589" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adventures.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="29" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
@@ -695,24 +664,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+    <entry file="file://$PROJECT_DIR$/adventures.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="83" selection-start-line="83" selection-start-column="4" selection-end-line="87" selection-end-column="10" />
+        <state relative-caret-position="663">
+          <caret line="79" column="90" selection-start-line="79" selection-start-column="90" selection-end-line="79" selection-end-column="90" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="259" column="50" selection-start-line="259" selection-start-column="50" selection-end-line="259" selection-end-column="50" />
+        <state relative-caret-position="364">
+          <caret line="60" column="82" selection-start-line="60" selection-start-column="82" selection-end-line="60" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/our-fleet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="550" column="79" selection-start-line="550" selection-end-line="551" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/how-it-works.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
+        <state relative-caret-position="196">
+          <caret line="136" column="72" selection-start-line="136" selection-start-column="72" selection-end-line="136" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="55" column="90" selection-start-line="55" selection-start-column="90" selection-end-line="55" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/booking.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="103" column="25" selection-start-line="103" selection-start-column="25" selection-end-line="103" selection-end-column="25" />
         </state>
       </provider>
     </entry>
