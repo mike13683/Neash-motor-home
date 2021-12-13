@@ -4,6 +4,9 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,700');
 @import url('https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap');
 
+html, body{
+  height:100%;
+}
 
 h1,h2,h3,h4,h5{
   font-family: 'Montserrat', sans-serif;
@@ -25,3 +28,21 @@ h2{
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span{
   background: $primary !important;
 }
+
+
+//side bar booking link
+//.parent{
+//  position: fixed;
+//  width:50px;
+//  height:100%;
+//  z-index:-10;
+//  transform:translateY(-50%);
+//  top:50%;
+//
+//
+//  .child{
+//    position: absolute;
+//    top:50%;
+//
+//  }
+//}
