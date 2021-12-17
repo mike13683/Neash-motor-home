@@ -37,6 +37,18 @@ $(document).ready(function(){
     })
 
 
+// cookie
+    $(function () {
+        if (localStorage.getItem('popState') != 'shown') {
+            $("#cookie").fadeIn("slow");
+        }
+
+        $('.cookie-btn').click(function (e) {
+            $('#cookie').fadeOut();
+            localStorage.setItem('popState', 'shown');
+        });
+    });
+
 
 
 });

@@ -627,6 +627,7 @@
   right:0;
   background-color:$primary;
   color:#fff;
+  z-index:20;
 
 
   .fix-child{
@@ -642,8 +643,6 @@
       top:50px;
       text-decoration: none;
     }
-
-
   }
 
 }

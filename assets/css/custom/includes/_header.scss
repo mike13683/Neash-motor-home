@@ -56,4 +56,28 @@ header{
   li{
     margin-top: -40px !important;
   }
+
+
+}
+//mobile
+@include media-breakpoint-down(md){
+  .navbar button {
+    position: relative;
+    left:50%;
+    transform:translateX(-50%);
+  }
+
+  //remove outline border of humburger
+  .navbar-toggler:focus,
+  .navbar-toggler:active,
+  .navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
+  }
+
+  .navbar img{
+    position: relative;
+    left:50%;
+    transform:translateX(-50%);
+  }
 }
