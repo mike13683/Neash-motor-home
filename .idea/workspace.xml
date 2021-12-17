@@ -4,9 +4,6 @@
     <list default="true" id="81627580-ca7c-4177-86d5-8bc3d8702647" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/custom/helpers/_global-classes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom/helpers/_global-classes.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/custom/includes/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom/includes/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/source.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/source.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/booking.html" beforeDir="false" afterPath="$PROJECT_DIR$/booking.html" afterDir="false" />
     </list>
@@ -48,7 +45,7 @@
             <entry file="file://$PROJECT_DIR$/booking.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="119">
-                  <caret line="7" selection-start-line="7" selection-end-line="7" />
+                  <caret line="7" selection-start-line="7" selection-end-line="13" selection-end-column="6" />
                 </state>
               </provider>
             </entry>
@@ -56,8 +53,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/_includes/header.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="459">
-                  <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+                <state relative-caret-position="738">
+                  <caret line="109" column="10" selection-start-line="109" selection-start-column="10" selection-end-line="109" selection-end-column="10" />
                 </state>
               </provider>
             </entry>
@@ -65,26 +62,26 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/css/custom/includes/_header.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="419">
+                <state relative-caret-position="636">
                   <caret line="81" column="3" selection-start-line="81" selection-start-column="3" selection-end-line="81" selection-end-column="3" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets/js/source.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="534">
-                  <caret line="41" column="24" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="24" />
+                <state relative-caret-position="272">
+                  <caret line="16" column="16" selection-start-line="2" selection-end-line="36" selection-end-column="9" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/_includes/footer.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="102">
-                  <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+                <state relative-caret-position="884">
+                  <caret line="92" column="57" selection-start-line="92" selection-start-column="57" selection-end-line="92" selection-end-column="57" />
                 </state>
               </provider>
             </entry>
@@ -216,13 +213,13 @@
         <option value="$PROJECT_DIR$/how-it-works.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/contact.html" />
-        <option value="$PROJECT_DIR$/booking.html" />
-        <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/assets/css/custom/includes/_header.scss" />
         <option value="$PROJECT_DIR$/assets/css/main.scss" />
         <option value="$PROJECT_DIR$/assets/css/custom/helpers/_global-classes.scss" />
-        <option value="$PROJECT_DIR$/assets/js/source.js" />
+        <option value="$PROJECT_DIR$/booking.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/_includes/header.html" />
+        <option value="$PROJECT_DIR$/assets/js/source.js" />
       </list>
     </option>
   </component>
@@ -372,18 +369,18 @@
       <workItem from="1638976379509" duration="3000" />
       <workItem from="1638976425539" duration="13975000" />
       <workItem from="1639418368002" duration="1831000" />
-      <workItem from="1639497625411" duration="20891000" />
+      <workItem from="1639497625411" duration="23053000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104019000" />
+    <option name="totallyTimeSpent" value="106181000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-1088" width="1858" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.114835165" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.114835165" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -396,7 +393,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49945053" visible="true" weight="0.14849429" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49945053" visible="true" weight="0.14849429" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50054944" side_tool="true" weight="0.15368639" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -664,31 +661,10 @@
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/booking.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="775">
           <caret line="644" column="5" selection-start-line="644" selection-start-column="5" selection-end-line="644" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/custom/includes/_header.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="81" column="3" selection-start-line="81" selection-start-column="3" selection-end-line="81" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -699,10 +675,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/source.js">
+    <entry file="file://$PROJECT_DIR$/booking.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="41" column="24" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="24" />
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="109" column="10" selection-start-line="109" selection-start-column="10" selection-end-line="109" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/custom/includes/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="81" column="3" selection-start-line="81" selection-start-column="3" selection-end-line="81" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -715,8 +705,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        <state relative-caret-position="884">
+          <caret line="92" column="57" selection-start-line="92" selection-start-column="57" selection-end-line="92" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/source.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="16" selection-start-line="2" selection-end-line="36" selection-end-column="9" />
         </state>
       </provider>
     </entry>
