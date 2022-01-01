@@ -82,3 +82,8 @@ header{
   }
 }
 
+@include media-breakpoint-up(lg){
+  .navbar .nav-item:hover .dropdown-menu {
+    width: 200px;
+  }
+}

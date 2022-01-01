@@ -4,6 +4,15 @@
 }
 
 #main-footer{
+  @include media-breakpoint-down(lg){
+    p{
+      font-size:50px;
+    }
+
+    .copyright {
+      font-size:20px !important;
+    }
+  }
 
   color:#fff;
 
@@ -19,6 +28,22 @@
     position: absolute;
     right:auto !important;
     margin-right: auto;
+
+    a{
+      @include media-breakpoint-down(lg){
+        font-size:75px;
+      }
+    }
+  }
+
+  //mobile
+  @include media-breakpoint-down(lg){
+    font-size:50px !important;
+
+    h2{
+      font-size:55px;
+    }
   }
 
 }
+
