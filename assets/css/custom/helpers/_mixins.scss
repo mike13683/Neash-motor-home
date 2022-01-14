@@ -1,5 +1,5 @@
 //overlay background colour
-@mixin overlay($height: 100%, $background: rgba(54, 25, 25, .6), $width: 100%, $top: 0, $left: 0, $right: 0) {
+@mixin overlay($height: 100%, $background: rgba(54, 25, 25, .4), $width: 100%, $top: 0, $left: 0, $right: 0) {
   height: $height;
   background: $background;
   width:$width;

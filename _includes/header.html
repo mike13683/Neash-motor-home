@@ -3,16 +3,18 @@
     <div class="d-flex flex-column flex-md-row align-items-center bg-dark box-shadow">
         <div class="container-fluid">
 
-            <div class="nav-text bg-primary text-light p-2 contact-details-header">
-                <i class="fa fa-phone" aria-hidden="true"></i><span class="pr-lg-2"> 01509 426442 </span><i class="fa fa-envelope"></i><a href="mailto:hello@n-mh.co.uk"> hello@N-MH.co.uk</a>
+            <div class="nav-text bg-primary text-light p-3 contact-details-header">
+                <div class="d-inline d-flex justify-content-end align-items-center">
+                    <!--<i class="fa fa-phone d-inline-block" aria-hidden="true"></i>--><span class="pl-5"> 01509 426442 </span>
+                    <span class="social-buttons d-none d-lg-inline">
+                        <a href="https://www.facebook.com/Niche-Motorhome-Hire-100295955310320/" target="_blank" class="fab fa-facebook-f fa-2x"></a>
+                        <a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x4879e1b8b3f6c7c3:0x362e8760dbe4221c?source=g.page.share" target="_blank" class="fab fa-google fa-2x"></a>
+                        <a href="https://www.instagram.com/niche_motorh0mes/" target="_blank" class="fab fa-instagram fa-2x"></a>
+                        <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D441509426442%26app%3Dfacebook%26entry_point%3Dpage_cta&h=AT1XEQHuK6XLl85BBSg99EuynJsKWjUCT5JDbzfCkWTTZHQTrrpzIg9x_tj5ZrwGJw0rKeAZqc-e9MYDFFnm-VVwfrBQT2kCGfmuGKCkMoED_pYKaX2fncCCqOeFD7Lx5V68VWka4PlFK1vv7zW9DbI5yAsE2ajKtw" target="_blank" class="fab fa-whatsapp fa-2x"></a>
+                        <a href="mailto:hello@n-mh.co.uk" class="fa fa-envelope fa-2x" aria-hidden="true"></a>
+                    </span>
 
-                <span class="social-buttons d-none d-lg-inline">
-                    <a href="https://www.facebook.com/Niche-Motorhome-Hire-100295955310320/" target="_blank" class="fab fa-facebook-f fa-2x"></a>
-                    <a href="https://twitter.com/dragon_signs" target="_blank" class="fab fa-twitter fa-2x"></a>
-                    <a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x4879e1b8b3f6c7c3:0x362e8760dbe4221c?source=g.page.share" target="_blank" class="fab fa-google fa-2x"></a>
-                    <a href="https://instagram.com/dragonsigns/" target="_blank" class="fab fa-instagram fa-2x"></a>
-                    <a href="mailto:hello@n-mh.co.uk" class="fa fa-envelope fa-2x" aria-hidden="true"></a>
-                </span>
+                </div>
 
             </div>
 
@@ -34,7 +36,7 @@
                 <li><a href="./">Home</a></li>
 
                 <li class="nav-item dropdown justify-content-center">
-                    <a onclick="location.href='our-fleet.html'" class="dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a onclick="location.href='our-fleet.html'" class="dropdown-toggle" href="./our-fleet.html" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Our Fleet
                     </a>
                     <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
@@ -51,7 +53,7 @@
                 </li>
 
                 <li class="nav-item dropdown">
-                    <a onclick="location.href='resources.html'" class="dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink-resources" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a onclick="location.href='resources.html'" class="dropdown-toggle" href="./resources.html" id="navbarDarkDropdownMenuLink-resources" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Resources
                     </a>
                     <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink-resources">
@@ -60,7 +62,7 @@
 
                         <li><a href="./resources.html#whats-included">Whats Included</a></li>
 
-                        <li><a href="./resources.html#user-guide">User Guide</a></li>
+                        <li><a href="./resources.html#options">Options & Extras</a></li>
 
                         <li><a href="./resources.html#pet-friendly">Dog / Pets</a></li>
 
@@ -70,7 +72,7 @@
                 </li>
 
                 <li class="nav-item dropdown">
-                    <a onclick="location.href='adventures.html'" class="dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink-adventure" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a onclick="location.href='adventures.html'" class="dropdown-toggle" href="./adventures.html" id="navbarDarkDropdownMenuLink-adventure" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Adventure
                     </a>
                     <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink-adventure">
@@ -78,13 +80,22 @@
 
                         <li><a href="./adventures.html#challenge">Niche Challenge</a></li>
 
-                        <li><a href="./contact.html">Work With Us</a></li>
                     </ul>
                 </li>
 
-                <li class="mr-3"><a href="./contact.html">Contact</a></li>
+                <li class="nav-item dropdown">
+                    <a onclick="location.href='contact.html'" class="dropdown-toggle" href="./contact.html" id="navbarDarkDropdownMenuLink-contact" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Contact
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink-adventure">
+                        <li><a href="./contact.html#contact">Contact</a></li>
+
+                        <li><a href="./work-with-us.html">Work with Us</a></li>
+                    </ul>
+                </li>
 
                 <li><a href="./about.html">About Us</a></li>
+
 
                 <li class="navbar-booking"><a href="./booking.html">Booking</a></li>
 
@@ -93,6 +104,15 @@
 
     </nav>
 </header>
+
+<!--booking sidebar button-->
+<div class="fix-parent d-none d-lg-block bg-primary text-light d-none d-lg-block">
+    <div class="fix-child d-flex justify-content-center align-items-center">
+        <a href="./booking.html">
+            Booking Page
+        </a>
+    </div>
+</div>
 
 <section id="cookie">
     <div class="container-fluid">

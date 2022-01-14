@@ -51,3 +51,20 @@ h2{
     font-size: 20px;
   }
 }
+
+//booking page sidebar button
+.fix-parent{
+  top:50%;
+  transform:translateY(-50%);
+  position: fixed;
+  right:-40px;
+
+  z-index:20;
+  transform:rotate(90deg);
+  padding:20px;
+
+  a{
+    color:#fff;
+    text-decoration:none;
+  }
+}

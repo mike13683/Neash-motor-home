@@ -85,12 +85,16 @@
       p{
         font-size:rem-calc(20px);
       }
-
-
     }
 
     .card{
       margin:10px 5px;
+    }
+
+    @include media-breakpoint-up(lg){
+      .card-body.our-rv__body-max-height {
+        min-height:242px;
+      }
     }
 
     .birth{
@@ -121,20 +125,23 @@
 }
 
 //about
-#about{
+#h-about{
 
   .about{
-    height:700px;
+    height:800px;
   }
   .about-bg-image{
-    background: url("https://loremflickr.com/1000/500/people") no-repeat center center;
+    background: url("{{site.url}}//assets/img/h-about.jpg") no-repeat center center;
     background-size:cover;
-
   }
-
-  background-color: #F6F6F6;
+  //background-color: #F6F6F6;
 
   .about{
+
+    h2{
+      font-size: rem-calc(38px);
+    }
+
     h2, h3{
       text-align:left;
     }
@@ -216,8 +223,6 @@
       }
     }
 
-
-
     p{
       font-size:25px;
     }
@@ -230,7 +235,6 @@
   .card-header{
     padding: 0;
   }
-
 
   .our-rv{
     h3{
@@ -278,6 +282,10 @@
 //Comparison table
 #compare-rv{
 
+  .item{
+    margin:0 10px;
+  }
+
   .card-header{
     padding: 0;
   }
@@ -292,6 +300,17 @@
     .compare-rv__header{
       p{
         font-size:rem-calc(20px);
+      }
+    }
+
+    //compare our campers vans card images
+    .card-img-top img{
+      max-width:400px !important;
+      height:267px !important;
+
+      @include media-breakpoint-down(lg){
+        max-width:100% !important;
+        height:500px !important;
       }
     }
 
@@ -358,18 +377,18 @@
 //gallery
 
 .gallery-background{
-  width:440px;
-  height:294px;
+  width:100%;
+  height:100%;
 
   @include media-breakpoint-down(lg){
     width:100%;
-    height:1024px;
+    height:100%;
   }
 }
 
 .gallery-background-large{
-  width:880px;
-  height:588px;
+  width:1012px;
+  height:600px;
 
   @include media-breakpoint-down(md){
     width:100%;
@@ -432,43 +451,40 @@
   .background-1{
     background: url("{{site.url}}//assets/img/independence-5.jpg") no-repeat center center;
     background-size:cover;
-    width:100%;
-    height:100%;
+    height:400px;
   }
 
   .background-2{
     background: url("{{site.url}}//assets/img/independence-1.jpg") no-repeat center center;
     background-size:cover;
-    width:100%;
-    height:100%;
+    height:400px;
   }
 
   .background-3{
     background: url("{{site.url}}//assets/img/independence-2.jpg") no-repeat center center;
     background-size:cover;
-    width:100%;
-    height:100%;
+    height:400px;
   }
 
   .background-4{
     background: url("{{site.url}}//assets/img/independence-3.jpg") no-repeat center center;
     background-size:cover;
-    width:100%;
-    height:100%;
+    height:400px;
+
   }
 
   .background-5{
     background: url("{{site.url}}//assets/img/independence-4.jpg") no-repeat center center;
     background-size:cover;
-    width:100%;
-    height:100%;
+    height:400px;
+
   }
 
   .background-6{
     background: url("{{site.url}}//assets/img/IMG_6658.jpg") no-repeat center center;
     background-size:cover;
-    width:100%;
-    height:100%;
+    height:800px;
+
 
     @include media-breakpoint-down(md){
       width:100%;
@@ -630,17 +646,66 @@
   }
 }
 
+#osiris{
+  .background-1{
+    background: url("{{site.url}}//assets/img/osiris-2.jpg") no-repeat center center;
+    background-size:cover;
+    width:100%;
+    height:100%;
+  }
+
+  .background-2{
+    background: url("{{site.url}}//assets/img/osiris-3.jpg") no-repeat center center;
+    background-size:cover;
+    width:100%;
+    height:100%;
+  }
+
+  .background-3{
+    background: url("{{site.url}}//assets/img/osiris-4.jpg") no-repeat center center;
+    background-size:cover;
+    width:100%;
+    height:100%;
+  }
+
+  .background-4{
+    background: url("{{site.url}}//assets/img/osiris-5.jpg") no-repeat center center;
+    background-size:cover;
+    width:100%;
+    height:100%;
+  }
+
+  .background-5{
+    background: url("{{site.url}}//assets/img/osiris-2.jpg") no-repeat center center;
+    background-size:cover;
+    width:100%;
+    height:100%;
+  }
+
+  .background-6{
+    background: url("{{site.url}}//assets/img/osiris-6.jpg") no-repeat center center;
+    background-size:cover;
+    width:100%;
+    height:100%;
+
+    @include media-breakpoint-down(md){
+      width:100%;
+      height:100%;
+    }
+  }
+}
+
 //Free Spirit Campervan
 
 
-//HOW IT WORKS
+//RESOURCES
 #how-it-works-header .utility{
   position: relative;
   height:400px;
   width:100%;
 
   &-bg-image{
-    background: url("{{site.url}}//assets/img/california-6.1.jpg") no-repeat center center;
+    background: url("{{site.url}}//assets/img/u-resources.jpg") no-repeat center center;
     background-size:cover;
   }
 
@@ -736,7 +801,7 @@
   width:100%;
 
   &-bg-image{
-    background: url("{{site.url}}//assets/img/california-6.1.jpg") no-repeat center center;
+    background: url("{{site.url}}//assets/img/u-adventure.jpg") no-repeat center center;
     background-size:cover;
   }
 
@@ -857,8 +922,7 @@
   }
 }
 
-
-
+//contact
 #contact{
 
   .contact{
@@ -883,7 +947,7 @@
   }
 
   span, i, a, p{
-    font-size:rem-calc(24px);
+    font-size:rem-calc(20px);
   }
 
   a{
@@ -891,6 +955,81 @@
     color:#fff;
   }
 }
+
+//partner
+.partner{
+  position: relative;
+  height:650px;
+  width:100%;
+
+  &__content{
+    position: absolute;
+    top:50%;
+    transform:translateY(-50%);
+  }
+
+  &-bg-image{
+    background: url("{{site.url}}//assets/img/Spirit-side.jpg") no-repeat center center;
+    background-size: cover;
+  }
+}
+
+//Work With Us - Influencer
+.influencer{
+  position: relative;
+  height:650px;
+  width:100%;
+
+  &__content{
+    position: absolute;
+    top:50%;
+    transform:translateY(-50%);
+  }
+
+  &-bg-image{
+    background: url("{{site.url}}//assets/img/work-with-us-influencer.jpg") no-repeat center center;
+    background-size: cover;
+  }
+}
+
+//ABOUT
+#about-header .utility{
+  position: relative;
+  height:400px;
+  width:100%;
+
+  &-bg-image{
+    background: url("{{site.url}}//assets/img/california-6.1.jpg") no-repeat center center;
+    background-size:cover;
+  }
+
+  .bg-layer{
+    @include overlay;
+  }
+
+  &__content{
+    top:50%;
+    left:50%;
+    transform:translateX(-50%) translateY(-50%);
+    color:#fff;
+    text-align:center;
+    position: absolute;
+
+
+    h1{
+      font-size:rem-calc(102px);
+
+      @include media-breakpoint-down(md){
+        font-size:rem-calc(80px);
+      }
+    }
+
+    p{
+      font-size:25px;
+    }
+  }
+}
+
 
 //BOOKINGS
 #booking-header .utility{
@@ -978,5 +1117,4 @@
     text-align: left;
   }
 }
-
 
