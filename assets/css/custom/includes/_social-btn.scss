@@ -5,10 +5,9 @@
   font-size: 24px;
 }
 
-.social-buttons{
-  margin-right: 20px;
+//header buttons
+header .social-buttons{
   margin-left: 20px;
-
 }
 
 .social-buttons .fab,.fa-envelope{
@@ -19,3 +18,8 @@
   }
 }
 
+//footer buttons
+#main-footer, .social-buttons{
+  margin-left: 0;
+  margin-right: 0;
+}

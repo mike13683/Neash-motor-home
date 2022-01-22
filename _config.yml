@@ -23,11 +23,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://mike13683.github.io/Neash-motor-home/" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://dragoninfotech2.co.uk/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.neashmotorhomerental.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 
 
-title: Dragon Signs - Signage | Graphics | Digital | Print - 029 2022 6501
-description: Shop Signs | Digital Signs | Vehicle Graphics | Business Signs | Window Graphics | Outdoor / Indoor Signs | Sports | Events. Cardiff, UK
+title: Neash Motor Home - MOTORHOME & CAMPERVAN HIRE IN THE HEART OF THE EAST MIDLANDS
+description: We are a family run Motorhome rental / hire business based in Loughborough, Leicestershire. Our goal is to provide high quality, transparent priced rentals
 
 # Build settings
 markdown: kramdown

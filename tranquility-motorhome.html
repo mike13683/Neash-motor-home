@@ -30,7 +30,7 @@ hero-header: Tranquillity I
     </div>
 </section>
 
-<section class="freedom-bg-colour p-1 p1-lg-none py-3 py-lg-7">
+<section class="freedom-bg-colour p-1 p1-lg-none py-3 py-lg-5 js-top">
     <div class="container">
         <div class="row">
 
@@ -55,9 +55,9 @@ hero-header: Tranquillity I
                             <p>There are 4 travelling 3 point seat belts with 2 Isofix seats.</p>
                             <P>Reversing camera fitted to help manoeuvring, alarm & tracker also fitted.</P>
                             <div class="text-center">
-                                <a href="./booking.html" class="btn btn-outline-primary mb-4">Book this van</a>
+                                <a href="#booking-calender" class="btn btn-outline-primary mb-4">Check Availability</a>
                             </div>
-                            <img src="{{site.url}}/assets/img/tranquillity.png" class="img-fluid" alt="t-line-590-offside">
+                            <img src="{{site.url}}/assets/img/tranquillity.png" class="img-fluid" alt="tranquillity">
 
                             <div class="row py-5 py-lg-5">
                                 <div class="col-lg-6">
@@ -70,7 +70,7 @@ hero-header: Tranquillity I
                                 </div>
 
                                 <div class="col-lg-6">
-                                    <img src="{{site.url}}/assets/img/696-floorplan.JPG" class="img-fluid" alt="T-line 590">
+                                    <img src="{{site.url}}/assets/img/696-floorplan.JPG" class="img-fluid" alt="696 floorplan">
                                 </div>
 
                                 <div class="col">
@@ -134,61 +134,173 @@ hero-header: Tranquillity I
                 </div>
             </div>
 
-            <section class="pb-7" id="tranquillity">
-                <div class="container-fluid">
-                    <div class="row">
+        </div>
+    </div>
+</section>
 
-                        <div class="col">
-                            <div class="gallery">
-                                <div class="gallery__content">
-                                    <div class="gallery__header">
-                                        <h2>Photo Gallery</h2>
-                                    </div>
-                                    <div class="gallery__body">
-                                        <div class="row">
-                                            <div class="col-lg-4">
-                                                <div class="gallery-background">
-                                                    <div class="background-1"></div>
-                                                </div>
+<section class="pb-7" id="tranquillity">
+    <div class="container-fluid">
+        <div class="row">
+
+            <div class="col">
+                <div class="gallery">
+                    <div class="gallery__content">
+                        <div class="gallery__header">
+                            <h2>Photo Gallery</h2>
+                        </div>
+
+                        <div class="row">
+
+                            <div class="col-lg-4">
+                                <div class="gallery-background" data-bs-toggle="modal" data-bs-target="#exampleModal1">
+                                    <div class="background-1"></div>
+                                </div>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="exampleModal1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                             </div>
-                                            <div class="col-lg-4">
-                                                <div class="gallery-background">
-                                                    <div class="background-2"></div>
-                                                </div>
-                                            </div>
-                                            <div class="col-lg-4">
-                                                <div class="gallery-background">
-                                                    <div class="background-3"></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-lg-4">
-                                            <div class="col-lg-12">
-                                                <div class="gallery-background">
-                                                    <div class="background-4"></div>
-                                                </div>
-                                            </div>
-                                            <div class="col-lg-12">
-                                                <div class="gallery-background">
-                                                    <div class="background-5"></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-8 d-none d-lg-block">
-                                            <div class="gallery-background-large">
-                                                <div class="background-6"></div>
+                                            <div class="modal-body">
+                                                <img src="{{site.url}}/assets/img/tranquillity-5.jpg" class="img-fluid" alt="Motorhome" data-backdrop="false">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+                            <div class="col-lg-4">
+                                <div class="gallery-background" data-bs-toggle="modal" data-bs-target="#exampleModal2">
+                                    <div class="background-2"></div>
+                                </div>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                            </div>
+                                            <div class="modal-body">
+                                                <img src="{{site.url}}/assets/img/tranquillity-1.jpg" class="img-fluid" alt="Motorhome" data-backdrop="false">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="gallery-background" data-bs-toggle="modal" data-bs-target="#exampleModal3">
+                                    <div class="background-3"></div>
+                                </div>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="exampleModal3" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                            </div>
+                                            <div class="modal-body">
+                                                <img src="{{site.url}}/assets/img/tranquillity-2.jpg" class="img-fluid" alt="Motorhome" data-backdrop="false">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="row">
+
+                            <div class="col-lg-4">
+                                <div class="col-lg-12">
+                                    <div class="gallery-background" data-bs-toggle="modal" data-bs-target="#exampleModal4">
+                                        <div class="background-4"></div>
+                                    </div>
+
+                                    <!-- Modal -->
+                                    <div class="modal fade" id="exampleModal4" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                        <div class="modal-dialog modal-lg">
+                                            <div class="modal-content">
+                                                <div class="modal-header">
+                                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                                </div>
+                                                <div class="modal-body">
+                                                    <img src="{{site.url}}/assets/img/tranquillity-3.jpg" class="img-fluid" alt="Motorhome" data-backdrop="false">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-12">
+                                    <div class="gallery-background" data-bs-toggle="modal" data-bs-target="#exampleModal5">
+                                        <div class="background-5"></div>
+                                    </div>
+
+                                    <!-- Modal -->
+                                    <div class="modal fade" id="exampleModal5" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                        <div class="modal-dialog modal-lg">
+                                            <div class="modal-content">
+                                                <div class="modal-header">
+                                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                                </div>
+                                                <div class="modal-body">
+                                                    <img src="{{site.url}}/assets/img/tranquillity-4.jpg" class="img-fluid" alt="Motorhome" data-backdrop="false">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-8 d-none d-lg-block">
+
+                                <div class="gallery-background" data-bs-toggle="modal" data-bs-target="#exampleModa6">
+                                    <div class="background-6"></div>
+                                </div>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="exampleModa6" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                            </div>
+                                            <div class="modal-body">
+                                                <img src="{{site.url}}/assets/img/tranquillity.png" class="img-fluid" alt="Motorhome" data-backdrop="false">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
                         </div>
 
                     </div>
                 </div>
-            </section>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<section id="booking-calender">
+    <div class="container">
+        <div class="row">
+
+            <div class="col">
+                <div class="booking-c">
+                    <div class="booking-c__content">
+                        <div class="booking-c__header">
+                        </div>
+                        <div class="booking-c__body">
+                            <div id="outdoorsy-book-now-container" data-rental="200689" data-color="000000"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
         </div>
     </div>

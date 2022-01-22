@@ -3,44 +3,105 @@
   <component name="ChangeListManager">
     <list default="true" id="81627580-ca7c-4177-86d5-8bc3d8702647" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/adventures.html" beforeDir="false" afterPath="$PROJECT_DIR$/adventures.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/android-chrome-192x192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-chrome-256x256.png" beforeDir="false" afterPath="$PROJECT_DIR$/android-chrome-256x256.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-chrome-96x96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-chrome-256x256.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/apple-touch-icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/custom/helpers/_global-classes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom/helpers/_global-classes.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/custom/helpers/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom/helpers/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/custom/includes/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom/includes/_footer.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/custom/includes/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom/includes/_header.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/custom/includes/_social-btn.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom/includes/_social-btn.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/New folder/675-2020-Main-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/New folder/685-Main.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/New folder/696-Main-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/New folder/Coming-soon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/New folder/IMG-0387-1280x620-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/New folder/independence.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/New folder/t-line-590-offside-Serenity.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/5beuXkIA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Collecting-my-Van.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Coming-soon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Dragon-Signs-Logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Dragon-Signs-Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Ensuite-Campervans-700x465.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Ensuite-Campervans2-700x465.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Gearbox-Auto.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Gearbox-Auto.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Gearbox-Manual.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/IMG_6657.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/IMG_6657.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/IMG_6658.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/IMG_6658.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Ip9Q8DNA.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/New folder/254037599_1000202080559759_3601145420241535798_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/New folder/Niche.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/New folder/Untitled-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/New folder/cropped-Niche.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/New folder/favicon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/New folder/h-about.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/New folder/options-osiris.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/New folder/our-fleet-free-spirit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/New folder/our-fleet-freedom-i.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/New folder/our-fleet-freedom-ii.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/New folder/our-fleet-independence.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/New folder/our-fleet-other.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/New folder/our-fleet-serenity.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/New folder/our-fleet-tranquillity-11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/New folder/our-fleet-tranquillity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/New folder/our-fleet-voyager.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/about.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/adventure-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/classic-vw-campervans-768x512.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/extras-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/freedom-1-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/freedom-1-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/freedom-1-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/freedom-1-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/freedom-1-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/hire-periods.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/home-our-rv-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/iStock-1138142697.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/iStock-656939382.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/independence-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/independence-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/independence-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/independence-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/independence-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/independence-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/independence-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/independence-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/independence-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/independence-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/mHDQuUcA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/maxime-bhm-9ZnGWdsqNZ4-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/our-fleet-coming-soon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/our-fleet-compare-voyager.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/our-fleet-compare-voyager.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/our-fleet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/our-rv-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/our-rv-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/our-rv-4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/our-rv-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/our-rv-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/our-rv-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/our-rv-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/pdf-icon-png-2064-150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/places-to-stay.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/whats-included.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/zRAJoQjg.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/source.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/source.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/booking.html" beforeDir="false" afterPath="$PROJECT_DIR$/booking.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/favicon-16x16.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/favicon-32x32.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freedom-ii-motorhome.html" beforeDir="false" afterPath="$PROJECT_DIR$/freedom-ii-motorhome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freedom-motorhome.html" beforeDir="false" afterPath="$PROJECT_DIR$/freedom-motorhome.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/independence-campervan.html" beforeDir="false" afterPath="$PROJECT_DIR$/independence-campervan.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mstile-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/mstile-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/options.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/osiris-motorhome.html" beforeDir="false" afterPath="$PROJECT_DIR$/osiris-motorhome.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/our-fleet.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-fleet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/privacy-policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/privacy-policy.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/safari-pinned-tab.svg" beforeDir="false" afterPath="$PROJECT_DIR$/safari-pinned-tab.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serenity-i-ii-motorhomes.html" beforeDir="false" afterPath="$PROJECT_DIR$/serenity-i-ii-motorhomes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/site.webmanifest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tcs.html" beforeDir="false" afterPath="$PROJECT_DIR$/tcs.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tranquility-motorhome.html" beforeDir="false" afterPath="$PROJECT_DIR$/tranquility-motorhome.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tranquillity-ii-motorhome.html" beforeDir="false" afterPath="$PROJECT_DIR$/tranquillity-ii-motorhome.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/voyager-motorhome.html" beforeDir="false" afterPath="$PROJECT_DIR$/voyager-motorhome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work-with-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/work-with-us.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -54,87 +115,36 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Neash Motor Homes" />
+  </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6953518">
+    <splitter split-orientation="horizontal" split-proportion="0.7950392">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/work-with-us.html">
+            <entry file="file://$PROJECT_DIR$/assets/css/custom/helpers/_global-classes.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="668">
-                  <caret line="54" column="102" selection-start-line="54" selection-start-column="102" selection-end-line="54" selection-end-column="102" />
+                <state relative-caret-position="581">
+                  <caret line="60" selection-start-line="60" selection-end-line="61" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/resources.html">
+            <entry file="file://$PROJECT_DIR$/assets/css/custom/includes/_header.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-21942">
-                  <caret line="3" column="287" selection-start-line="3" selection-start-column="287" selection-end-line="3" selection-end-column="287" />
+                <state relative-caret-position="170">
+                  <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="391">
-                  <caret line="303" column="47" selection-start-line="303" selection-start-column="47" selection-end-line="303" selection-end-column="47" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/_includes/header.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="560">
-                  <caret line="108" column="80" selection-start-line="108" selection-start-column="80" selection-end-line="108" selection-end-column="80" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="51">
-                  <caret line="3" selection-start-line="3" selection-end-line="3" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/contact.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="251">
-                  <caret line="49" column="60" selection-start-line="49" selection-start-column="60" selection-end-line="49" selection-end-column="60" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/booking.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="578">
-                  <caret line="34" column="65" selection-start-line="34" selection-start-column="65" selection-end-line="34" selection-end-column="65" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/adventures.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="561">
-                  <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/our-fleet.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="132">
-                  <caret line="354" column="28" selection-start-line="354" selection-start-column="28" selection-end-line="354" selection-end-column="28" />
+                <state relative-caret-position="615">
+                  <caret line="95" column="56" selection-start-line="95" selection-start-column="56" selection-end-line="95" selection-end-column="56" />
                 </state>
               </provider>
             </entry>
@@ -146,8 +156,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="523">
-                  <caret line="949" column="25" selection-start-line="949" selection-start-column="25" selection-end-line="949" selection-end-column="25" />
+                <state relative-caret-position="751">
+                  <caret line="982" column="23" selection-start-line="982" selection-start-column="23" selection-end-line="982" selection-end-column="23" />
                 </state>
               </provider>
             </entry>
@@ -158,43 +168,38 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>comp</find>
+      <find>uk</find>
       <find>book</find>
-      <find>backgr</find>
-      <find>type</find>
-      <find>background-largefree</find>
-      <find>242px</find>
-      <find>our</find>
-      <find>select</find>
-      <find>&lt;div class=&quot;card-body p-0 p-lg-2&quot;&gt;</find>
-      <find>work with</find>
-      <find>work</find>
-      <find>pets</find>
-      <find>whats</find>
-      <find>indep</find>
-      <find>res</find>
-      <find>modal-dialog</find>
-      <find>coming</find>
-      <find>utilit</find>
-      <find>booking</find>
-      <find>029</find>
-      <find>social</find>
-      <find>are you</find>
-      <find>fix</find>
-      <find>about</find>
-      <find>fleet</find>
+      <find>selec</find>
+      <find>&lt;/table&gt;</find>
+      <find>coast</find>
+      <find>fr</find>
+      <find>free spirit</find>
+      <find>drive the</find>
       <find>free</find>
-      <find>400</find>
-      <find>drag</find>
-      <find>contact</find>
-      <find>compare</find>
+      <find>spirit</find>
+      <find>advent</find>
+      <find>check</find>
+      <find>peopl</find>
+      <find>ava</find>
+      <find>book this van</find>
+      <find>home</find>
+      <find>utility</find>
+      <find>uti</find>
+      <find>80</find>
+      <find>p-6</find>
+      <find>htmlmin</find>
+      <find>uk ma</find>
+      <find>peop</find>
+      <find>logo</find>
+      <find>full</find>
+      <find>other</find>
+      <find>cookie</find>
+      <find>menu</find>
+      <find>cooko</find>
+      <find>cook</find>
     </findStrings>
     <replaceStrings>
-      <replace>var</replace>
-      <replace>&lt;p class=&quot;p-lg-2&quot;&gt;Tumultumque de festus historia, s historia, captis luba!Est mirabili captis luba!Est mirabilis absolutio, cesaris.&lt;/p&gt;</replace>
-      <replace>Our fleet</replace>
-      <replace>col-lg-3</replace>
-      <replace>compare-rv</replace>
       <replace>tcs</replace>
       <replace>fa fa-checkfoote</replace>
       <replace>adventure</replace>
@@ -211,6 +216,20 @@
       <replace>py-5</replace>
       <replace>a-about</replace>
       <replace>&lt;div class=&quot;card-body our-rv__body-max-height p-0 p-lg-2&quot;&gt;</replace>
+      <replace>tranquillity</replace>
+      <replace>serenity</replace>
+      <replace>freedom</replace>
+      <replace>alt=&quot;Motorhome&quot;</replace>
+      <replace>/</replace>
+      <replace>voyager</replace>
+      <replace>var</replace>
+      <replace>fadeLeft</replace>
+      <replace>top</replace>
+      <replace>Intro</replace>
+      <replace>osiris</replace>
+      <replace>bottom</replace>
+      <replace>stagger</replace>
+      <replace>Check Availability</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -235,47 +254,48 @@
         <option value="$PROJECT_DIR$/assets/css/custom/includes/hero.scss" />
         <option value="$PROJECT_DIR$/_layouts/page.html" />
         <option value="$PROJECT_DIR$/bookings.html" />
-        <option value="$PROJECT_DIR$/_includes/head.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/how-it-works.html" />
-        <option value="$PROJECT_DIR$/assets/css/custom/includes/_footer.scss" />
-        <option value="$PROJECT_DIR$/freedom-motorhome.html" />
-        <option value="$PROJECT_DIR$/serenity-i-ii-motorhomes.html" />
-        <option value="$PROJECT_DIR$/freedom-ii-motorhome.html" />
-        <option value="$PROJECT_DIR$/osiris-motorhome.html" />
-        <option value="$PROJECT_DIR$/assets/js/source.js" />
         <option value="$PROJECT_DIR$/resources - Copy.html" />
-        <option value="$PROJECT_DIR$/work-with-us.html" />
-        <option value="$PROJECT_DIR$/independence-campervan.html" />
-        <option value="$PROJECT_DIR$/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/assets/css/custom/includes/_header.scss" />
         <option value="$PROJECT_DIR$/assets/css/custom/helpers/_mixins.scss" />
-        <option value="$PROJECT_DIR$/voyager-motorhome.html" />
-        <option value="$PROJECT_DIR$/tranquillity-ii-motorhome.html" />
-        <option value="$PROJECT_DIR$/tranquility-motorhome.html" />
-        <option value="$PROJECT_DIR$/tcs.html" />
-        <option value="$PROJECT_DIR$/resources.html" />
         <option value="$PROJECT_DIR$/privacy-policy.html" />
-        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/options.html" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
-        <option value="$PROJECT_DIR$/_includes/header.html" />
-        <option value="$PROJECT_DIR$/assets/css/main.scss" />
-        <option value="$PROJECT_DIR$/contact.html" />
-        <option value="$PROJECT_DIR$/assets/css/custom/helpers/_global-classes.scss" />
-        <option value="$PROJECT_DIR$/booking.html" />
+        <option value="$PROJECT_DIR$/assets/js/source.js" />
+        <option value="$PROJECT_DIR$/work-with-us.html" />
+        <option value="$PROJECT_DIR$/_includes/head.html" />
+        <option value="$PROJECT_DIR$/assets/css/custom/includes/_header.scss" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/assets/css/custom/includes/_footer.scss" />
         <option value="$PROJECT_DIR$/assets/css/custom/includes/_social-btn.scss" />
-        <option value="$PROJECT_DIR$/adventures.html" />
-        <option value="$PROJECT_DIR$/our-fleet.html" />
+        <option value="$PROJECT_DIR$/booking.html" />
+        <option value="$PROJECT_DIR$/tcs.html" />
+        <option value="$PROJECT_DIR$/tranquillity-ii-motorhome.html" />
+        <option value="$PROJECT_DIR$/tranquility-motorhome.html" />
+        <option value="$PROJECT_DIR$/osiris-motorhome.html" />
+        <option value="$PROJECT_DIR$/independence-campervan.html" />
+        <option value="$PROJECT_DIR$/freedom-motorhome.html" />
+        <option value="$PROJECT_DIR$/freedom-ii-motorhome.html" />
+        <option value="$PROJECT_DIR$/free-spirit.html" />
+        <option value="$PROJECT_DIR$/resources.html" />
+        <option value="$PROJECT_DIR$/voyager-motorhome.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/adventures.html" />
+        <option value="$PROJECT_DIR$/serenity-i-ii-motorhomes.html" />
+        <option value="$PROJECT_DIR$/our-fleet.html" />
+        <option value="$PROJECT_DIR$/assets/css/main.scss" />
+        <option value="$PROJECT_DIR$/assets/css/custom/helpers/_global-classes.scss" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_includes/header.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="121" />
-    <option name="y" value="-811" />
-    <option name="width" value="922" />
-    <option name="height" value="494" />
+    <option name="x" value="255" />
+    <option name="y" value="-742" />
+    <option name="width" value="1486" />
+    <option name="height" value="838" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -295,11 +315,6 @@
               <item name="Neash Motor Homes" type="b2602c69:ProjectViewProjectNode" />
               <item name="Neash Motor Homes" type="462c0819:PsiDirectoryNode" />
               <item name="_includes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Neash Motor Homes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Neash Motor Homes" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Neash Motor Homes" type="b2602c69:ProjectViewProjectNode" />
@@ -355,7 +370,7 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="$PROJECT_DIR$/node_modules/grunt" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dragonsigns/assets/css/main.scss" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Test sites/Grapes/assets/js/source.js" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="options.lastSelected" value="configurable.group.appearance" />
@@ -422,21 +437,23 @@
       <workItem from="1640021245628" duration="9055000" />
       <workItem from="1640187880538" duration="2865000" />
       <workItem from="1640196712361" duration="101900000" />
-      <workItem from="1641914941560" duration="44891000" />
+      <workItem from="1641914941560" duration="72749000" />
+      <workItem from="1642451957206" duration="39427000" />
+      <workItem from="1642816412716" duration="5951000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="265587000" />
+    <option name="totallyTimeSpent" value="338823000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-1088" width="1858" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13572204" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49948078" visible="true" weight="0.15824176" />
       <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="npm" order="2" side_tool="true" />
-      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="npm" order="2" sideWeight="0.5005192" side_tool="true" weight="0.13736264" />
+      <window_info id="Favorites" order="3" sideWeight="0.5005192" side_tool="true" weight="0.13736264" />
       <window_info id="Grunt " order="4" weight="0.32967034" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.328934" />
@@ -446,28 +463,28 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49945053" weight="0.109644674" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50054944" side_tool="true" visible="true" weight="0.1532995" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49945053" visible="true" weight="0.10280374" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50054944" side_tool="true" weight="0.1532995" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.114835165" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49948078" visible="true" weight="0.15824176" />
       <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="npm" order="2" side_tool="true" />
-      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="npm" order="2" sideWeight="0.5005192" side_tool="true" weight="0.13736264" />
+      <window_info id="Favorites" order="3" sideWeight="0.5005192" side_tool="true" weight="0.13736264" />
       <window_info id="Grunt " order="4" weight="0.32967034" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.328934" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49945053" visible="true" weight="0.10280374" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50054944" side_tool="true" weight="0.15368639" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49945053" weight="0.10176532" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50054944" side_tool="true" weight="0.1532995" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -477,46 +494,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/faq.html" />
-    <entry file="file://$PROJECT_DIR$/../RV/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../RV/our-fleet.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/custom/vendors/_juice.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/custom/_bootstrap-override.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="261" column="27" selection-start-line="261" selection-start-column="27" selection-end-line="261" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../concept fire/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../dragonsigns/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/android-chrome-96x96.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tcs/privacy-policy.html" />
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../concept fire/intruder.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -526,37 +503,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../bathrooms/about.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.dev.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/custom/includes/hero.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/custom/includes/_footer.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../dragonsigns/assets/css/main.scss">
       <provider selected="true" editor-type-id="text-editor">
@@ -584,34 +530,6 @@
     <entry file="file://$PROJECT_DIR$/assets/css/bootstrap/bootstrap.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/source.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="68" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/custom/includes/_header.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -619,45 +537,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tranquility-motorhome.html">
+    <entry file="file://$PROJECT_DIR$/options.html" />
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="382" selection-start-line="3" selection-start-column="382" selection-end-line="3" selection-end-column="382" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/serenity-i-ii-motorhomes.html">
+    <entry file="file://$PROJECT_DIR$/../Test sites/Hackberry/assets/js/source.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="131" lean-forward="true" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="131" />
+        <state relative-caret-position="269">
+          <caret line="132" column="13" selection-start-line="132" selection-start-column="13" selection-end-line="133" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tcs.html">
+    <entry file="file://$PROJECT_DIR$/../dragonsigns/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/osiris-motorhome.html">
+    <entry file="file://$PROJECT_DIR$/../dragonsigns/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3128">
-          <caret line="184" lean-forward="true" selection-start-line="184" selection-end-line="184" />
+        <state relative-caret-position="119">
+          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/freedom-motorhome.html">
+    <entry file="file://$PROJECT_DIR$/work-with-us.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" column="58" selection-start-line="61" selection-start-column="58" selection-end-line="61" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/freedom-ii-motorhome.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1581">
-          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+        <state relative-caret-position="262">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -668,129 +583,246 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/independence-campervan.html">
+    <entry file="file://$PROJECT_DIR$/../Test sites/Grapes/assets/js/source.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2715">
-          <caret line="32" column="61" selection-start-line="32" selection-start-column="61" selection-end-line="32" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/work-with-us.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
-          <caret line="54" column="102" selection-start-line="54" selection-start-column="102" selection-end-line="54" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/voyager-motorhome.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2341">
-          <caret line="3" column="320" selection-start-line="3" selection-start-column="320" selection-end-line="3" selection-end-column="320" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tranquillity-ii-motorhome.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2329">
-          <caret line="3" column="382" selection-start-line="3" selection-start-column="382" selection-end-line="3" selection-end-column="382" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21942">
-          <caret line="3" column="287" selection-start-line="3" selection-start-column="287" selection-end-line="3" selection-end-column="287" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/options.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        <state relative-caret-position="1340">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="49" column="302" lean-forward="true" selection-start-line="49" selection-start-column="302" selection-end-line="49" selection-end-column="302" />
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+    <entry file="file://$PROJECT_DIR$/tcs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="108" column="80" selection-start-line="108" selection-start-column="80" selection-end-line="108" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/custom/helpers/_global-classes.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="54" column="18" selection-start-line="54" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="49" column="60" selection-start-line="49" selection-start-column="60" selection-end-line="49" selection-end-column="60" />
+        <state relative-caret-position="289">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/booking.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="65" selection-start-line="34" selection-start-column="65" selection-end-line="34" selection-end-column="65" />
+        <state relative-caret-position="-285">
+          <caret line="61" column="111" selection-start-line="61" selection-start-column="111" selection-end-line="61" selection-end-column="111" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/custom/helpers/_mixins.scss">
+    <entry file="file://$PROJECT_DIR$/tranquillity-ii-motorhome.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="62" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
+        <state relative-caret-position="-3563">
+          <caret line="52" column="106" selection-start-line="52" selection-start-column="103" selection-end-line="52" selection-end-column="106" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/custom/includes/_social-btn.scss">
+    <entry file="file://$PROJECT_DIR$/osiris-motorhome.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="566">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
+    <entry file="file://$PROJECT_DIR$/independence-campervan.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="949" column="25" selection-start-line="949" selection-start-column="25" selection-end-line="949" selection-end-column="25" />
+        <state relative-caret-position="531">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adventures.html">
+    <entry file="file://$PROJECT_DIR$/tranquility-motorhome.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+        <state relative-caret-position="364">
+          <caret line="288" selection-start-line="288" selection-end-line="306" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/our-fleet.html">
+    <entry file="file://$PROJECT_DIR$/freedom-ii-motorhome.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="354" column="28" selection-start-line="354" selection-start-column="28" selection-end-line="354" selection-end-column="28" />
+        <state relative-caret-position="442">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/freedom-motorhome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="286" selection-start-line="286" selection-end-line="304" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38199">
+          <caret line="2247" column="73" lean-forward="true" selection-start-line="2247" selection-start-column="73" selection-end-line="2247" selection-end-column="73" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="303" column="47" selection-start-line="303" selection-start-column="47" selection-end-line="303" selection-end-column="47" />
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="15" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/voyager-motorhome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="42" selection-start-line="63" selection-start-column="42" selection-end-line="64" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2057">
+          <caret line="121" column="40" selection-start-line="121" selection-start-column="40" selection-end-line="121" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/free-spirit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5185">
+          <caret line="305" column="86" selection-start-line="305" selection-start-column="86" selection-end-line="305" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/assets/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.dev.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adventures.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="263" column="16" selection-start-line="263" selection-start-column="16" selection-end-line="263" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serenity-i-ii-motorhomes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="297" column="86" selection-start-line="297" selection-start-column="86" selection-end-line="297" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/our-fleet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="568" column="34" selection-start-line="568" selection-start-column="34" selection-end-line="568" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="1121" column="42" selection-start-line="1121" selection-start-column="42" selection-end-line="1121" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/custom/helpers/_mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/custom/includes/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/custom/includes/_gallery.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/custom/includes/_social-btn.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/custom/includes/hero.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/source.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="751">
+          <caret line="982" column="23" selection-start-line="982" selection-start-column="23" selection-end-line="982" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/custom/includes/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/custom/helpers/_global-classes.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="60" selection-start-line="60" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="95" column="56" selection-start-line="95" selection-start-column="56" selection-end-line="95" selection-end-column="56" />
         </state>
       </provider>
     </entry>
