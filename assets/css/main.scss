@@ -201,7 +201,7 @@
   width:100%;
 
   &-bg-image{
-    background: url("/assets/img/california-6.1.jpg") no-repeat center center;
+    background: url("/assets/img/our-fleet-header.jpg") no-repeat center center;
     background-size:cover;
   }
 
@@ -223,7 +223,7 @@
       font-size:rem-calc(102px);
 
       @include media-breakpoint-down(md){
-        font-size:rem-calc(50px);
+        font-size:rem-calc(40px);
       }
     }
 
@@ -298,6 +298,7 @@
     h3{
       font-size:rem-calc(26px);
       text-align: center;
+      font-weight:bold;
     }
 
     .compare-rv__header{
@@ -510,7 +511,7 @@
   }
 
   .background-6{
-    background: url("/assets/img/t-line-590-offside.jpg") no-repeat center center;
+    background: url("/assets/img/T-line-590-driver-side.jpg") no-repeat center center;
     background-size:cover;
     height:800px;
 
@@ -520,6 +521,46 @@
     }
   }
 }
+
+//Horizon
+#horizon{
+  .background-1{
+    background: url("/assets/img/horizon-5.jpg") no-repeat center center;
+    background-size:cover;
+    height:400px;
+  }
+
+  .background-2{
+    background: url("/assets/img/horizon-1.jpg") no-repeat center center;
+    background-size:cover;
+    height:400px;
+  }
+
+  .background-3{
+    background: url("/assets/img/horizon-2.jpg") no-repeat center center;
+    background-size:cover;
+    height:400px;
+  }
+
+  .background-4{
+    background: url("/assets/img/horizon-3.jpg") no-repeat center center;
+    background-size:cover;
+    height:400px;
+  }
+
+  .background-5{
+    background: url("/assets/img/horizon-4.jpg") no-repeat center center;
+    background-size:cover;
+    height:400px;
+  }
+
+  .background-6{
+    background: url("/assets/img/horizon.png") no-repeat center center;
+    background-size:cover;
+    height:800px;
+  }
+}
+
 
 //Tranquillity motorhome
 #tranquillity{
@@ -672,7 +713,7 @@
       font-size:rem-calc(102px);
 
       @include media-breakpoint-down(md){
-        font-size:rem-calc(50px);
+        font-size:rem-calc(40px);
       }
     }
 
@@ -694,7 +735,12 @@
 }
 
 //Options
-
+#options{
+  h3{
+    font-weight:bold;
+    text-align:center;
+  }
+}
 
 //What’s Included
 
@@ -846,7 +892,7 @@
       font-size:rem-calc(102px);
 
       @include media-breakpoint-down(md){
-        font-size:rem-calc(50px);
+        font-size:rem-calc(40px);
       }
     }
 
@@ -897,7 +943,7 @@
   width:100%;
 
   &-bg-image{
-    background: url("/assets/img/california-6.1.jpg") no-repeat center center;
+    background: url("/assets/img/our-fleet-header.jpg") no-repeat center center;
     background-size:cover;
   }
 
@@ -918,7 +964,7 @@
       font-size:rem-calc(102px);
 
       @include media-breakpoint-down(md){
-        font-size:rem-calc(50px);
+        font-size:rem-calc(40px);
       }
     }
 
@@ -1010,7 +1056,7 @@
   width:100%;
 
   &-bg-image{
-    background: url("/assets/img/california-6.1.jpg") no-repeat center center;
+    background: url("/assets/img/our-fleet-header.jpg") no-repeat center center;
     background-size:cover;
   }
 
@@ -1032,7 +1078,7 @@
       font-size:rem-calc(102px);
 
       @include media-breakpoint-down(md){
-        font-size:rem-calc(50px);
+        font-size:rem-calc(40px);
       }
     }
 
@@ -1049,7 +1095,7 @@
   width:100%;
 
   &-bg-image{
-    background: url("/assets/img/california-6.1.jpg") no-repeat center center;
+    background: url("/assets/img/our-fleet-header.jpg") no-repeat center center;
     background-size:cover;
   }
 
@@ -1071,7 +1117,7 @@
       font-size:rem-calc(102px);
 
       @include media-breakpoint-down(md){
-        font-size:rem-calc(50px);
+        font-size:rem-calc(40px);
       }
     }
 

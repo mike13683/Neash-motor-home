@@ -90,7 +90,7 @@ h2{
   width:100%;
 
   &-bg-image{
-    background: url("/assets/img/california-6.1.jpg") no-repeat center center;
+    background: url("/assets/img/our-fleet-header.jpg") no-repeat center center;
     background-size:cover;
   }
 
@@ -110,7 +110,7 @@ h2{
       font-size:rem-calc(102px);
 
       @include media-breakpoint-down(md){
-        font-size:rem-calc(80px);
+        font-size:rem-calc(40px);
       }
     }
 

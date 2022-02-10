@@ -6,7 +6,7 @@ $(document).ready(function(){
         margin:0,
         nav:false,
         autoplay:true,
-        autoplayTimeout:3000,
+        autoplayTimeout:5000,
         responsive:{
             0:{
                 items:1
@@ -15,7 +15,7 @@ $(document).ready(function(){
                 items:1
             },
             1000:{
-                items:6
+                items:4
             }
         }
     })
@@ -26,7 +26,7 @@ $(document).ready(function(){
         margin:0,
         nav:false,
         autoplay:true,
-        autoplayTimeout:3000,
+        autoplayTimeout:5000,
         responsive:{
             0:{
                 items:1

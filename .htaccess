@@ -1,0 +1,21 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^neashmotorhomerental.co.uk
+RewriteRule (.*) http://www.neashmotorhomerental.co.uk/$1 [R=301,L]
+
+Redirect 301 /booking/ https://www.neashmotorhomerental.co.uk/booking.html
+Redirect 301 /faq/ https://www.neashmotorhomerental.co.uk/faq.html
+Redirect 301 /freedom-ii-motorhome/ https://www.neashmotorhomerental.co.uk/freedom-ii-motorhome.html
+Redirect 301 /freedom-motorhome/ https://www.neashmotorhomerental.co.uk/freedom-motorhome.html
+Redirect 301 /osiris-motorhome/ https://www.neashmotorhomerental.co.uk/osiris-motorhome.html
+Redirect 301 /our-fleet/ https://www.neashmotorhomerental.co.uk/our-fleet.html
+Redirect 301 /privacy-policy/ https://www.neashmotorhomerental.co.uk/privacy-policy.html
+Redirect 301 /serenity-i-ii-motorhomes/ https://www.neashmotorhomerental.co.uk/serenity-i-ii-motorhomes.html
+Redirect 301 /booking/ https://www.neashmotorhomerental.co.uk/booking.html
+Redirect 301 /freedom-ii-motorhome/ https://www.neashmotorhomerental.co.uk/freedom-ii-motorhome.html
+Redirect 301 /freedom-motorhome/ https://www.neashmotorhomerental.co.uk/freedom-motorhome.html
+Redirect 301 /osiris-motorhome/ https://www.neashmotorhomerental.co.uk/osiris-motorhome.html
+Redirect 301 /tranquility-motorhome/ https://www.neashmotorhomerental.co.uk/tranquility-motorhome.html
+Redirect 301 /tranquillity-ii-motorhom/ https://www.neashmotorhomerental.co.uk/tranquillity-ii-motorhom.html
+Redirect 301 /voyager-motorhome/ https://www.neashmotorhomerental.co.uk/voyager-motorhome.html
+Redirect 301 /tcs/ https://www.neashmotorhomerental.co.uk/tcs.html
+
