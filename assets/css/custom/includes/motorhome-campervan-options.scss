@@ -1,0 +1,19 @@
+#motorhome-campervan-options{
+  .motorhome-options{
+    margin-bottom:100px;
+  }
+
+  .card-body{
+    min-height:140px;
+  }
+
+  .card-body-parent{
+    position: relative;
+  }
+
+  .card-body-child{
+    top:50%;
+    position: absolute;
+    transform:translateY(-50%);
+  }
+}

@@ -1,4 +1,46 @@
 $(document).ready(function(){
+    // vechicle options
+    $('.owl-options-gallery').owlCarousel({
+        loop:true,
+        nav:true,
+        center:true,
+        dots:false,
+        autoplay:true,
+        autoplayTimeout:3000,
+        responsive:{
+            0:{
+                items:1
+            },
+            600:{
+                items:3
+            },
+            1000:{
+                items:5
+            }
+        }
+    })
+
+    // motorhome-options
+    $('.owl-carousel-motorhome-options ').owlCarousel({
+        loop:true,
+        nav:false,
+        center:true,
+        dots:true,
+        autoplay:true,
+        autoplayTimeout:3000,
+        responsive:{
+            0:{
+                items:1
+            },
+            600:{
+                items:3
+            },
+            1000:{
+                items:5
+            }
+        }
+    })
+
 
     // Our fleet - compare
     $('.owl-compare-rv').owlCarousel({
@@ -38,8 +80,9 @@ $(document).ready(function(){
                 items:4
             }
         }
-
     });
+
+
 
 // cookie
     if(localStorage.getItem('popupState') != 'shown'){
@@ -144,5 +187,6 @@ $(document).ready(function(){
             .setTween(IntroTween)
             .addTo(IntroController)
     })
+
 
 });
