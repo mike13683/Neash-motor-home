@@ -401,6 +401,13 @@
   }
 }
 
+//gallery modal clicked width size
+@media (min-width: 992px){
+  .gallery .modal-lg, .modal-xl {
+    max-width: 600px;
+  }
+}
+
 //freedom motorhome 1
 #freedome-1{
   .background-1{
@@ -683,7 +690,79 @@
 }
 
 //Free Spirit Campervan
+#free-spirit{
+  .background-1{
+    background: url("/assets/img/free-spirit-1.jpg") no-repeat center center;
+    background-size:cover;
+    height:400px;
+  }
 
+  .background-2{
+    background: url("/assets/img/free-spirit-2.jpg") no-repeat center center;
+    background-size:cover;
+    height:400px;
+  }
+
+  .background-3{
+    background: url("/assets/img/free-spirit-3.jpg") no-repeat center center;
+    background-size:cover;
+    height:400px;
+  }
+
+  .background-4{
+    background: url("/assets/img/free-spirit-4.jpg") no-repeat center center;
+    background-size:cover;
+    height:400px;
+  }
+
+  .background-5{
+    background: url("/assets/img/free-spirit-5.jpg") no-repeat center center;
+    background-size:cover;
+    height:400px;
+  }
+
+  .background-6{
+    background: url("/assets/img/free-spirit-6.jpg") no-repeat center center;
+    background-size:cover;
+    height:800px;
+  }
+
+  .background-7{
+    background: url("/assets/img/free-spirit-7.jpg") no-repeat center center;
+    background-size:cover;
+    height:400px;
+  }
+
+  .background-8{
+    background: url("/assets/img/free-spirit-8.jpg") no-repeat center center;
+    background-size:cover;
+    height:400px;
+  }
+
+  .background-9{
+    background: url("/assets/img/free-spirit-9.jpg") no-repeat center center;
+    background-size:cover;
+    height:400px;
+  }
+
+  .background-10{
+    background: url("/assets/img/free-spirit-10.jpg") no-repeat center center;
+    background-size:cover;
+    height:400px;
+  }
+
+  .background-11{
+    background: url("/assets/img/free-spirit-11.jpg") no-repeat center center;
+    background-size:cover;
+    height:400px;
+  }
+
+  .background-12{
+    background: url("/assets/img/free-spirit-12.jpg") no-repeat center center;
+    background-size:cover;
+    height:800px;
+  }
+}
 
 //RESOURCES
 #how-it-works-header .utility{

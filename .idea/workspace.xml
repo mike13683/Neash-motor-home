@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81627580-ca7c-4177-86d5-8bc3d8702647" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/source.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/source.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/free-spirit.html" beforeDir="false" afterPath="$PROJECT_DIR$/free-spirit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freedom-ii-motorhome.html" beforeDir="false" afterPath="$PROJECT_DIR$/freedom-ii-motorhome.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freedom-motorhome.html" beforeDir="false" afterPath="$PROJECT_DIR$/freedom-motorhome.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/horizon.html" beforeDir="false" afterPath="$PROJECT_DIR$/horizon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/independence-campervan.html" beforeDir="false" afterPath="$PROJECT_DIR$/independence-campervan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/osiris-motorhome.html" beforeDir="false" afterPath="$PROJECT_DIR$/osiris-motorhome.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serenity-i-ii-motorhomes.html" beforeDir="false" afterPath="$PROJECT_DIR$/serenity-i-ii-motorhomes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tranquility-motorhome.html" beforeDir="false" afterPath="$PROJECT_DIR$/tranquility-motorhome.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tranquillity-ii-motorhome.html" beforeDir="false" afterPath="$PROJECT_DIR$/tranquillity-ii-motorhome.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/voyager-motorhome.html" beforeDir="false" afterPath="$PROJECT_DIR$/voyager-motorhome.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,27 +22,9 @@
     <favorites_list name="Neash Motor Homes" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.7289424">
+    <splitter split-orientation="horizontal" split-proportion="0.55034834">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/freedom-ii-motorhome.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="476">
-                  <caret line="138" column="36" selection-start-line="138" selection-start-column="36" selection-end-line="138" selection-end-column="36" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/independence-campervan.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="221">
-                  <caret line="143" selection-start-line="142" selection-end-line="143" />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/_config.yml">
               <provider selected="true" editor-type-id="text-editor">
@@ -84,8 +55,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/free-spirit.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="340">
-                  <caret line="150" selection-start-line="150" selection-end-line="150" />
+                <state relative-caret-position="527">
+                  <caret line="296" column="60" selection-start-line="296" selection-start-column="60" selection-end-line="296" selection-end-column="60" />
                 </state>
               </provider>
             </entry>
@@ -99,20 +70,20 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/horizon.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="510">
+                <state>
                   <caret line="140" column="36" selection-start-line="140" selection-start-column="36" selection-end-line="140" selection-end-column="36" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/resources.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="289">
-                  <caret line="170" selection-start-line="170" selection-end-line="170" />
+                <state relative-caret-position="255">
+                  <caret line="168" selection-start-line="168" selection-end-line="168" />
                 </state>
               </provider>
             </entry>
@@ -133,8 +104,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+                <state relative-caret-position="-5603">
+                  <caret line="403" column="9" selection-start-line="403" selection-end-line="404" />
                 </state>
               </provider>
             </entry>
@@ -180,8 +151,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>floor</find>
-      <find>JPG</find>
       <find>Motorhomes 4 Birth</find>
       <find>tran</find>
       <find>all dr</find>
@@ -209,10 +178,11 @@
       <find>the ess</find>
       <find>foo</find>
       <find>import</find>
+      <find>800</find>
       <find>gallery</find>
+      <find>freedom</find>
     </findStrings>
     <replaceStrings>
-      <replace>influencer</replace>
       <replace>about</replace>
       <replace>p-4 px-lg-3 py-lg-1</replace>
       <replace>py-5</replace>
@@ -242,6 +212,7 @@
       <replace>Options and Extras</replace>
       <replace>card-body-child</replace>
       <replace>motorhome-options</replace>
+      <replace>free-spirit</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -294,21 +265,21 @@
         <option value="$PROJECT_DIR$/osiris-motorhome.html" />
         <option value="$PROJECT_DIR$/freedom-ii-motorhome.html" />
         <option value="$PROJECT_DIR$/independence-campervan.html" />
-        <option value="$PROJECT_DIR$/free-spirit.html" />
-        <option value="$PROJECT_DIR$/assets/css/main.scss" />
         <option value="$PROJECT_DIR$/horizon.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/campervan-options.html" />
         <option value="$PROJECT_DIR$/_includes/motorhome-options.html" />
         <option value="$PROJECT_DIR$/resources.html" />
+        <option value="$PROJECT_DIR$/assets/css/main.scss" />
+        <option value="$PROJECT_DIR$/free-spirit.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="206" />
-    <option name="y" value="-678" />
-    <option name="width" value="922" />
-    <option name="height" value="494" />
+    <option name="x" value="397" />
+    <option name="y" value="-693" />
+    <option name="width" value="738" />
+    <option name="height" value="395" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -454,12 +425,12 @@
       <workItem from="1645021883746" duration="3622000" />
       <workItem from="1646152270569" duration="1282000" />
       <workItem from="1647822994135" duration="5893000" />
-      <workItem from="1647868993485" duration="20895000" />
+      <workItem from="1647868993485" duration="24776000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="408614000" />
+    <option name="totallyTimeSpent" value="412495000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-1088" width="1859" height="1096" extended-state="6" />
@@ -741,31 +712,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/freedom-ii-motorhome.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="138" column="36" selection-start-line="138" selection-start-column="36" selection-end-line="138" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/serenity-i-ii-motorhomes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="382">
           <caret line="139" column="36" selection-start-line="139" selection-start-column="36" selection-end-line="139" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/free-spirit.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="150" selection-start-line="150" selection-end-line="150" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -783,31 +733,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/independence-campervan.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="143" selection-start-line="142" selection-end-line="143" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tranquillity-ii-motorhome.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="313">
           <caret line="135" selection-start-line="135" selection-end-line="135" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/horizon.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="140" column="36" selection-start-line="140" selection-start-column="36" selection-end-line="140" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -827,8 +756,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="170" selection-start-line="170" selection-end-line="170" />
+        <state relative-caret-position="255">
+          <caret line="168" selection-start-line="168" selection-end-line="168" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/independence-campervan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-468">
+          <caret line="143" selection-start-line="142" selection-end-line="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/freedom-ii-motorhome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1033">
+          <caret line="138" column="36" selection-start-line="138" selection-start-column="36" selection-end-line="138" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5603">
+          <caret line="403" column="9" selection-start-line="403" selection-end-line="404" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/free-spirit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="296" column="60" selection-start-line="296" selection-start-column="60" selection-end-line="296" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/horizon.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="140" column="36" selection-start-line="140" selection-start-column="36" selection-end-line="140" selection-end-column="36" />
         </state>
       </provider>
     </entry>
